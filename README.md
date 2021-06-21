@@ -3,7 +3,7 @@
 # Keas    : TI.19.B2
 # Nim     : 311910184
 
-# --------------------------TUGAS 10 SISTEM BASIS DATA-------------------------------------
+# -------------TUGAS 10 SISTEM BASIS DATA------------------
 # TUGAS Backup dan Restore Menggunakan Perintah SQL
 # 1. BUKA CMD MASUK MYSQL USE DATABASE YANG MAU DI BACKUP 
 ![image](https://user-images.githubusercontent.com/81583408/122800358-07826400-d2ed-11eb-8944-2b34533f9b47.png)
