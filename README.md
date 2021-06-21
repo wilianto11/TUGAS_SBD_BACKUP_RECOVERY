@@ -21,6 +21,7 @@
 # adalah LOAD DATA INFILE. Perintah yang dijalankan adalah load data infile 'b_pelanggan' into table pelanggan;
 ![image](https://user-images.githubusercontent.com/81583408/122801236-0f8ed380-d2ee-11eb-8ccc-ee1de84034bb.png)
 
+------------------------------------------------------------------------------------------------------------------------------------------------
 # TUGAS Backup dan Restore Menggunakan MySQLDump
 # 1.Menuju ke folder aplikasi mysqldump di xamp/mysql/bin
 #  Jalankan shell atau commad prompt dan ketikkan perintah berikut untuk memulai dump database : mysqldump -u root -p wilianto_311910184 > backup2.sql
@@ -31,6 +32,7 @@
 # 3. Data yang telah dibackup dapat di restrore kembali ke dalam database dengan perintah : mysqldump -u root -p wilianto_311910184 < C:\xampp\mysql\bin\backup2.sql
 ![image](https://user-images.githubusercontent.com/81583408/122803340-ac527080-d2f0-11eb-92e5-29d0de7f4a91.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------
 # Tulisakan script cron job untuk melakukan backupotomatis setiap hari minggu jam 12 malam !
 #  1. Script Untuk menjalankan backup database setiap hari minggu jam 12 malam : script dibawah :
 ## 0 0 * * 7 mysqldump -u root -p wilianto_311910184 > backup2.sql 
