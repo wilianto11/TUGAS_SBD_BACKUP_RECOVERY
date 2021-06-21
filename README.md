@@ -3,7 +3,7 @@
 # Keas    : TI.19.B2
 # Nim     : 311910184
 
-# ----------------------------------------------------------------TUGAS 10 SISTEM BASIS DATA----------------------------------------------------------------------------------
+# --------------------------TUGAS 10 SISTEM BASIS DATA-------------------------------------
 # TUGAS Backup dan Restore Menggunakan Perintah SQL
 # 1. BUKA CMD MASUK MYSQL USE DATABASE YANG MAU DI BACKUP 
 ![image](https://user-images.githubusercontent.com/81583408/122800358-07826400-d2ed-11eb-8944-2b34533f9b47.png)
@@ -34,6 +34,8 @@
 # Tulisakan script cron job untuk melakukan backupotomatis setiap hari minggu jam 12 malam !
 #  1. Script Untuk menjalankan backup database setiap hari minggu jam 12 malam : script dibawah :
 ## 0 0 * * 7 mysqldump -u root -p wilianto_311910184 > backup2.sql 
+
+------------------------------------------------------------------------------------------------------- 
 
 
 
